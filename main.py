@@ -11,8 +11,6 @@ print("|  |_> >  <_> )  | \/|  |    \___ \\  \___ / __ \|   |  \   |    |(  <_> 
 print("|   __/ \____/|__|   |__|   /____  >\___  >____  /___|  /   |____| \____/ \____/|____/")
 print("|__|                             \/     \/     \/     \/                              \n")
 
-print("By Ryan\n\n")
-
 host = input("Write the HOST/IP: ")
 
 # validando IP fornecido
