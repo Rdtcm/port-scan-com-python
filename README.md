@@ -96,7 +96,7 @@ Você quer utilizar as portas padrões?[S/N] s
 [+] Port 9090 is closed!
 [+] Port 443 is closed!
 
-[+] Port scaning is finished
+[+] Port scanning is finished
 
 ```
 
