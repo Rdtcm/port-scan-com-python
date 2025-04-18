@@ -48,4 +48,4 @@ if flag and host_flag:
         else:
             print(f"[+] Port {port} is closed!")
 
-print("\n[+] Port scaning is finished")
+print("\n[+] Port scanning is finished")
